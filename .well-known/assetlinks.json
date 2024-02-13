@@ -22,5 +22,17 @@
                 "3C:C4:2B:B3:26:6C:05:47:29:83:C9:FA:18:47:44:22:39:15:63:80:28:14:F0:7C:BE:B7:06:32:BE:5F:9D:85"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.verygoodcore.escuelas_flutter.stg",
+            "sha256_cert_fingerprints": [
+                "3C:C4:2B:B3:26:6C:05:47:29:83:C9:FA:18:47:44:22:39:15:63:80:28:14:F0:7C:BE:B7:06:32:BE:5F:9D:85"
+            ]
+        }
     }
 ]
